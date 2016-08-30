@@ -5,5 +5,6 @@ public class helloworld {
     public static void main (String []args){
         System.out.println("hello");
         System.out.println("something cool happened");
+          System.out.println("tried the SSH approach");
     }
 }
